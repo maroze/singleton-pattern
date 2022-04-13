@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "singleton", "singleton\singleton.csproj", "{A0B8C78A-9551-4CCD-82A6-153DA1F3CB61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chocolate", "Chocolate\Chocolate.csproj", "{6FB664E2-FE19-4DD8-B0EA-27F7976C95EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0B8C78A-9551-4CCD-82A6-153DA1F3CB61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0B8C78A-9551-4CCD-82A6-153DA1F3CB61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0B8C78A-9551-4CCD-82A6-153DA1F3CB61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0B8C78A-9551-4CCD-82A6-153DA1F3CB61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FB664E2-FE19-4DD8-B0EA-27F7976C95EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FB664E2-FE19-4DD8-B0EA-27F7976C95EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FB664E2-FE19-4DD8-B0EA-27F7976C95EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FB664E2-FE19-4DD8-B0EA-27F7976C95EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDED8713-239B-4D48-B1CF-0079F9BBC013}
+	EndGlobalSection
+EndGlobal
